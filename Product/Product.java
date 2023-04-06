@@ -19,6 +19,7 @@ public class Product {
 	private String prod_name;
 	private int qnty;
 	private int price;
+	//private
 	private int hsn_code;
 	
 	
